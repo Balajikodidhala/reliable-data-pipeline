@@ -1,0 +1,29 @@
+{
+    "run_id": "91877313-596d-457e-b04b-3418e4cbe4ca",
+    "status": "success",
+    "started_at": "2026-11-13T15:28:57.287776+00:00",
+    "input_file": "data/customers.csv",
+    "metrics": {
+        "input_records": 5,
+        "cleaned_records": 5,
+        "quarantined_records": 0,
+        "validation": {
+            "total_records": 5,
+            "duplicate_records": 0,
+            "missing_values": {
+                "customer_id": 0,
+                "name": 0,
+                "age": 0,
+                "city": 0,
+                "email": 0
+            }
+        }
+    },
+    "error": null,
+    "output_files": {
+        "cleaned_file": "output\\cleaned_customers.csv",
+        "quarantine_file": "output\\quarantine_customers.csv"
+    },
+    "finished_at": "2026-11-13T15:28:57.360505+00:00",
+    "duration_seconds": 0.0726
+}

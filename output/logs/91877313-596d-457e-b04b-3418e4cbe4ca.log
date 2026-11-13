@@ -1,0 +1,8 @@
+2026-11-13 20:58:57,288 - INFO - Pipeline started
+2026-11-13 20:58:57,312 - INFO - Late-arriving data detection skipped: event_time column not found
+2026-11-13 20:58:57,313 - INFO - Data ingestion completed
+2026-11-13 20:58:57,329 - INFO - Data validation completed
+2026-11-13 20:58:57,341 - INFO - Data cleaning completed
+2026-11-13 20:58:57,353 - INFO - Data storage completed
+2026-11-13 20:58:57,360 - INFO - Pipeline completed successfully
+2026-11-13 20:58:57,362 - INFO - Execution report saved: output\run_report_91877313-596d-457e-b04b-3418e4cbe4ca.json
